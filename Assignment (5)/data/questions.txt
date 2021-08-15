@@ -1,0 +1,26 @@
+25
+1:A:What is the majority religion of Iraq?:Islam:Christianity:Buddhism:Hinduism
+3:B:What is Iraq’s main economic resource?:barley.jpg:petroleum.jpg:livestock.jpg:textile.jpg
+1:C:What is the monetary unit of Iraq?:Iraqi riyal:Iraqi rial:Iraqi dinar:Iraqi dollar
+1:B:Which continent does Iraq reside in?:Europe:Asia:Africa:Oceania
+2:C:Where is this?:map.jpg:Mosul:Irbil:Baghdad:Basrah
+1:A:Where is Uruguay located?:South America:Europe:Africa:Asia
+3:C:Which flag represents Uruguay?:Paraguay.jpg:Argentina.jpg:Uruguay.jpg:Malaysia.jpg
+1:B:What is the official language used in Uruguay?:Portuguese:Spanish:English:Mandarin
+2:A:Where is this building located?:Palacio Salvo.jpg:Montevideo:Kuala Lumpur:London:The Leaning Tower of Pisa
+2:C:What is the name of this building located in Punta Ballena?:Casapueblo.jpg:Big Ben:The White House:Casapueblo:Petronas Twin Towers
+2:B:What is the capital of Ecuador?:Quito.jpg:Guayaquil:Quito:Cuenca:La Mitad
+1:C:Mainland Ecuador consists of the Costa (the coast), the Sierra (the highlands) and:La Jungla (the jungle):El Porvenir:El Oriente:Andalucia
+3:A:What is the town of Papallacta famous for?:NaturalHotSprings.jpg:SheepFarms.jpg:Mountain.jpg:Market.jpg
+1:C:Which of these countries does Ecuador NOT border?:Peru:Colombia:Chile:It borders all three
+3:C:What is Otavalo famous for?:SunkenVolcanicCrater.jpg:River.jpg:Market.jpg:Mountain.jpg
+1:D:What is the capital of Afghanistan?:Dhaka:KL:Beijing:Kabul
+3:D:Which flag represents Afghanistan?:Bangladesh.jpg:Norway.png:Malaysia.jpg:Afghanistan.jpg
+1:C:Who is the last king of Afghanistan?:Attiq:Mohammed Nadir Shah:Mohammed Zahir Shah:Stephen King
+1:A:What is Afghanistan famous for?:Pomegranates:Mango:Durian:None of the above 
+1:A:What is the official religion of Afghanistan?:Islam:Christianity:Judaism:Hinduism
+1:B:What colour shirts do Anderlecht play their home games in?:Orange:Purple:Yellow:Black
+1:A:What is the name of Hercule Poirot's chronicler and best friend?:Hastings:Totton:Maltravers:Mona
+1:B:What is the name of the current king of Belgium?:Philippe:Emmanuel:Leopold:Edward
+1:B:Which of these countries was once part of the Belgian empire?:Kenya:Mali:Democratic Republic of the Congo:America
+3:C:Which of these is NOT the name of an adventure had by Tintin-The Greatest Reporter of All Time?:KingOttokar_sSceptre.jpg:LandofBlackGold.jpg:TheLastLuxorian.jpg:ACOTAR.jpg

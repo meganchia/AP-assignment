@@ -1,0 +1,10 @@
+Vin Ann:A:C:C:B:C:A:A:B:A:C:B:C:A:C:C:D:D:C:A:A:B:A:B:B:C:92
+Keat:A:B:C:B:C:A:C:B:A:C:B:C:A:C:C:D:D:C:A:A:B:A:A:B:A:92
+Megan:A:B:A:B:B:C:C:B:A:C:A:A:A:C:C:D:D:C:A:A:B:A:C:B:C:76
+Melvin:A:B:C:B:C:A:C:B:A:C:B:C:A:C:C:D:D:C:B:C:B:A:B:B:A:88
+John Lee:A:B:C:B:C:A:C:B:A:A:B:C:A:C:C:B:A:A:C:C:B:A:A:C:A:64
+Iam Niceman:A:B:C:B:C:A:B:C:A:A:B:B:C:B:A:A:B:C:B:A:A:B:C:D:A:40
+Diluc:A:A:C:B:B:A:A:B:A:C:B:C:A:C:D:D:D:C:A:A:B:A:B:B:C:84
+Xiao:A:B:C:B:C:A:B:C:C:B:A:B:B:C:B:A:B:B:C:B:A:B:B:C:B:32
+Hutao:A:B:C:B:C:C:A:A:B:C:B:C:A:C:C:D:D:A:C:A:B:A:A:B:A:68
+Attiq:n:n:n:n:n:n:n:n:n:n:n:n:n:n:n:n:n:n:n:n:n:n:n:n:n:0
